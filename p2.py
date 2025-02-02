@@ -49,10 +49,10 @@ def plot_ellipse(a, b):
     
     for x, y in ellipse_points:
         x_coords.extend([x, -x, x, -x])
-        y_coords.extend([y, -y, -y, y])  # Fix incorrect reflections
+        y_coords.extend([y, -y, -y, y])
 
     plt.figure(figsize=(6, 6))
-    plt.plot(x_coords, y_coords, 'bo')  # Correct usage
+    plt.plot(x_coords, y_coords, 'bo', markersize=1)
     plt.title(f'Ellipse with a = {a}, b = {b}')
     plt.xlabel("X-axis")
     plt.ylabel("Y-axis")
