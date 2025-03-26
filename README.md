@@ -1,4 +1,4 @@
-#Read me
+#GPA - lab
 list of activities are as follows:
 1. computer aided design - use of cad, computer art, entertainment, kahoot, use of presentations, graphics, visualisation, image processing, GUI in computer graphcis.
 2. Working of Digital Differential Analyzer Algorithm.
