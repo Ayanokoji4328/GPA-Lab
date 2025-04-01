@@ -11,3 +11,4 @@ list of activities are as follows:
 Beyond syllabus:
 8. Study and implementation of Simple Animations using transformations.
 9. Study and implementation of Key Frame Animation. 
+Link for outputs: https://drive.google.com/drive/folders/1A8XD4GlNNrowVOz1zuhRIoyW_A56Ig0s?usp=sharing
